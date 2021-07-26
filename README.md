@@ -7,33 +7,7 @@ ROJO Coin has been built as a modified fork of PIVX and has kept sustainability 
 
 ROJO Coin is a modified Masternode currency. ROJO Coin separates itself through longevity supporting coin specifications, customized QT wallets, explicit Masternode and POS wallet block rewards and an intentionally low maximum coin supply of 25,000,000 ROJO Coins. Block Rewards halve every 1,000,000 blocks per 1,388 days until the maximum total supply of 25 million ROJO Coins is reached in 100+ years.
 
-All core code for ROJO Coin is completely open source and is available on Github in a dedicated repository under the MIT License: https://github.com/Roejogan/zenith-repository. Community members may use the available code to create use cases of their own, and have full permission to do so whether these uses be for private or commercial use.
 
 Join ROJO Coin's growing Official Discord Server to speak directly with the team: https://discord.gg/TCryPGc
-
-### Coin Specs
-<table>
-<tr><td>Algorithm</td><td>ROJO Protocol (Modified Version of Quark)</td></tr>
-<tr><td>Consensus Mechanisms/Mining</td><td>Proof of Stake</td></tr>
-<tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Total Coin Supply</td><td>2,000,000 ROJO</td></tr>
-<tr><td>Premine</td><td>2,000,000 ROJO</td></tr>
-<tr><td>Masternode Collateral</td><td>10,000 ROJO</td></tr>
-<tr><td>Block Rewards</td><td>70% Masternodes/ 30% POS Wallets</td></tr>
-<tr><td>Maturity</td><td>30 Minutes</td></tr>
-</table>
-
-### Block Rewards
-
-<table>
-<th>Blocks</th><th>Block Rewards</th><th>Days</th>
-<tr><td>100 - 5,000</td><td>1 ROJO Coin</td><td>7</td></tr>
-<tr><td>5,001 - 25,000</td><td>33 ROJO Coins</td><td>28</td></tr>
-<tr><td>25,001 - 100,000</td><td>20 ROJO Coin</td><td>104</td></tr>
-<tr><td>100,000 - 1,100,000</td><td>10 ROJO Coin</td><td>1,388</td></tr>
-</table>
-
-Note: Rewards halve every 1,000,000 blocks per 1,388 days until max supply is reached (100+ years).
-
 ### Links
 - [Official Explorer](http://explorer.roejoga.io) 
