@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![Logo](https://raw.githubusercontent.com/dataanalytics3crypto/roejoganwallet/main/logo.png)
 # roejogan
 roe jogan is type of blockchain which came as part of an experiment.
 
