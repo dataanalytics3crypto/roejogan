@@ -10,4 +10,4 @@ ROJO Coin is a modified Masternode currency. ROJO Coin separates itself through 
 
 Join ROJO Coin's growing Official Discord Server to speak directly with the team: https://discord.gg/TCryPGc
 ### Links
-- [Official Explorer](http://explorer.roejoga.io) 
+- [Official Explorer](http://explorer.roejogan.io) 
